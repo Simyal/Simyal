@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Simyal
+- 👀 I’m interested in coding, photography, piano, and so much other things.
+- 🌱 I’m currently learning PHP and Symfony.
